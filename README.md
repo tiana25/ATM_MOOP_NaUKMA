@@ -34,6 +34,8 @@ ATM application development on C++
 ## Джерела розробки (використані технології)
 C++, QT, SQLite
 
-![image](https://user-images.githubusercontent.com/60096558/137622835-d50dc988-5759-4fb5-b695-7f0bbef646fe.png)
+## ER-Model
+![image](https://user-images.githubusercontent.com/60096558/137622885-87b36ed1-4c07-44e1-b67e-03090c1dc9b5.png)
+
 
 

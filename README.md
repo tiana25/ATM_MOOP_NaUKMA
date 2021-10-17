@@ -52,20 +52,20 @@ C++, QT, SQLite
 що при будь-якому поповнені кредитного рахунку, сума на балансі
 не буде збільшуватися. Всі гроші йдуть на погашення кредитного боргу.
 
-Credit accounts:
-User 1) number: 7777, pin: 111
-User 2) number: 1234, pin: 123
-User 3) number: 4567, pin: 456
+Credit accounts:  
+User 1) number: 7777, pin: 111  
+User 2) number: 1234, pin: 123  
+User 3) number: 4567, pin: 456  
 
-Deposit accounts:
-User 1) number: 2355, pin: 111
-User 2) number: 8765, pin: 655
-User 3) number: 5667, pin: 677
+Deposit accounts:  
+User 1) number: 2355, pin: 111  
+User 2) number: 8765, pin: 655  
+User 3) number: 5667, pin: 677  
 
-Universal accounts:
-User 1) number: 8887, pin: 000
-User 2) number: 4910, pin: 550
-User 3) number: 5656, pin: 565
+Universal accounts:  
+User 1) number: 8887, pin: 000  
+User 2) number: 4910, pin: 550  
+User 3) number: 5656, pin: 565  
 
 ## Макети інтерфейсу (папка “Mockups”)
 ![image](https://user-images.githubusercontent.com/60096558/137623212-8a2232b1-9f11-4542-9500-aa68e9cb4d27.png)

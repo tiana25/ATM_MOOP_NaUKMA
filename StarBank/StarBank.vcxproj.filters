@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DBService">
+      <UniqueIdentifier>{452c4343-3ccf-4137-8a7a-122d2e70249f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="models">
+      <UniqueIdentifier>{24755fce-5313-4b40-8b03-84ebe7499da8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="models\accounts">
+      <UniqueIdentifier>{a1d44549-ea63-4a4d-a4e2-bbb31e6e4bae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DBService\AccountService.h">
+      <Filter>DBService</Filter>
+    </ClInclude>
+    <ClInclude Include="DBService\TransactionService.h">
+      <Filter>DBService</Filter>
+    </ClInclude>
+    <ClInclude Include="DBService\UserService.h">
+      <Filter>DBService</Filter>
+    </ClInclude>
+    <ClInclude Include="models\Transaction.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\User.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\accounts\Account.h">
+      <Filter>models\accounts</Filter>
+    </ClInclude>
+    <ClInclude Include="models\accounts\CreditAccount.h">
+      <Filter>models\accounts</Filter>
+    </ClInclude>
+    <ClInclude Include="models\accounts\DepositAccount.h">
+      <Filter>models\accounts</Filter>
+    </ClInclude>
+    <ClInclude Include="models\accounts\UniversalAccount.h">
+      <Filter>models\accounts</Filter>
+    </ClInclude>
+    <ClInclude Include="ATM.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="CashDispencer.h">
+      <Filter>models</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="models\Transaction.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\User.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\accounts\Account.cpp">
+      <Filter>models\accounts</Filter>
+    </ClCompile>
+    <ClCompile Include="models\accounts\CreditAccount.cpp">
+      <Filter>models\accounts</Filter>
+    </ClCompile>
+    <ClCompile Include="models\accounts\DepositAccount.cpp">
+      <Filter>models\accounts</Filter>
+    </ClCompile>
+    <ClCompile Include="models\accounts\UniversalAccount.cpp">
+      <Filter>models\accounts</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sqlite3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ATM.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="CashDispencer.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt" />
+  </ItemGroup>
+</Project>

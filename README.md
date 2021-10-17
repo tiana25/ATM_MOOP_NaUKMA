@@ -35,5 +35,14 @@ C++, QT, SQLite
 ## ER-Model
 ![image](https://user-images.githubusercontent.com/60096558/137622885-87b36ed1-4c07-44e1-b67e-03090c1dc9b5.png)
 
-
-
+## Макети інтерфейсу (папка “Mockups”)
+![image](https://user-images.githubusercontent.com/60096558/137623212-8a2232b1-9f11-4542-9500-aa68e9cb4d27.png)
+![image](https://user-images.githubusercontent.com/60096558/137623213-3fe42df0-a6d9-4f79-a985-5a632c7ffbec.png)
+![image](https://user-images.githubusercontent.com/60096558/137623214-a5ad32d3-76fd-49bf-9584-31209dc6c9b1.png)
+![image](https://user-images.githubusercontent.com/60096558/137623217-1b69c04a-e95a-4592-84b4-dfd41a1a06e8.png)
+![image](https://user-images.githubusercontent.com/60096558/137623220-274b7150-f906-496c-a218-1e28a09fd939.png)
+![image](https://user-images.githubusercontent.com/60096558/137623221-1ea24d86-80c8-4995-b904-c658112a4a7d.png)
+![image](https://user-images.githubusercontent.com/60096558/137623225-a2e244bf-9826-4488-b81d-ec1a4b6b3030.png)
+![image](https://user-images.githubusercontent.com/60096558/137623228-08072909-6fac-4239-a71e-ee96a2e382b7.png)
+![image](https://user-images.githubusercontent.com/60096558/137623230-59f215a2-780a-42e3-84f6-2e53ef8d34e5.png)
+![image](https://user-images.githubusercontent.com/60096558/137623233-300554f0-dbe7-4ef4-a3ea-8e2990aa1a67.png)

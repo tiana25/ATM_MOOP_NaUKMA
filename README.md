@@ -35,6 +35,38 @@ C++, QT, SQLite
 ## ER-Model
 ![image](https://user-images.githubusercontent.com/60096558/137622885-87b36ed1-4c07-44e1-b67e-03090c1dc9b5.png)
 
+## Як запустити
+У main.cpp викликається метод test(), який тестує головні методи
+для роботи із ATM.
+Якщо Ви хочете протестувати систему власноруч, 
+то далі буде atm.work(), який є закоментованим. Вам потрібно
+розкоментувати його та закоментувати метод  test().
+
+Якщо Ви потім захочете знову подивитися тести, то
+закоментуйте atm.work() та розкоментуйте test().
+
+Зауважте, при
+додаванні коштів на картку неможливо покласи, наприклад 700 грн за 1 раз,
+необхідно, наприклад, покласти 200 грн, а потім 500.
+Зауважте, 
+що при будь-якому поповнені кредитного рахунку, сума на балансі
+не буде збільшуватися. Всі гроші йдуть на погашення кредитного боргу.
+
+Credit accounts:
+User 1) number: 7777, pin: 111
+User 2) number: 1234, pin: 123
+User 3) number: 4567, pin: 456
+
+Deposit accounts:
+User 1) number: 2355, pin: 111
+User 2) number: 8765, pin: 655
+User 3) number: 5667, pin: 677
+
+Universal accounts:
+User 1) number: 8887, pin: 000
+User 2) number: 4910, pin: 550
+User 3) number: 5656, pin: 565
+
 ## Макети інтерфейсу (папка “Mockups”)
 ![image](https://user-images.githubusercontent.com/60096558/137623212-8a2232b1-9f11-4542-9500-aa68e9cb4d27.png)
 ![image](https://user-images.githubusercontent.com/60096558/137623213-3fe42df0-a6d9-4f79-a985-5a632c7ffbec.png)
